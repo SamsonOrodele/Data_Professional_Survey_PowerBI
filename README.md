@@ -76,7 +76,7 @@ Using Power Query within Power BI:
 - Created custom calculated fields like:
   - Age groups
   - Satisfaction averages
-  - Career switch indicators (if present)
+  - Career switch indicators
 
 ---
 
